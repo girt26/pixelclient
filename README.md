@@ -1,2 +1,2 @@
 # pixelclient
-alternative modded eaglercraft 1.8.8 client
+Alternative js 1.12.2 mc client
